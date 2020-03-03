@@ -16,3 +16,18 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/blade', function () {
+    return view('child', [
+        'name' => 'Khon!',
+        'array' => [
+            'My Name' => 'Kim',
+            'Hi' => 'Hello',
+        ],
+        'options' => [
+            'Laravel5' => 'Laravel5',
+            'Laravel6' => 'Laravel6',
+            'Laravel7' => 'Laravel7',
+        ],
+    ]);
+});
