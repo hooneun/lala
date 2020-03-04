@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6558f74828bca9ebecac73d90cea4b1a",
+    "content-hash": "6c7079d9035b7f356ac8be9b80ccd400",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -733,16 +733,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "7.x-dev",
+            "version": "v7.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "fe08478f8c679c012b571c456e53a89812ebc619"
+                "reference": "cbd46c70bc747af5f80a4a257ff58fd533e3f815"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/fe08478f8c679c012b571c456e53a89812ebc619",
-                "reference": "fe08478f8c679c012b571c456e53a89812ebc619",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/cbd46c70bc747af5f80a4a257ff58fd533e3f815",
+                "reference": "cbd46c70bc747af5f80a4a257ff58fd533e3f815",
                 "shasum": ""
             },
             "require": {
@@ -880,7 +880,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-03-03T01:37:00+00:00"
+            "time": "2020-03-03T22:20:03+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -3946,16 +3946,16 @@
         },
         {
             "name": "nunomaduro/collision",
-            "version": "v4.1.1",
+            "version": "v4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/collision.git",
-                "reference": "1a7c9c49ece828a02b1118234652ada53c1f840b"
+                "reference": "e81356da90969139c85709f8353e59f1e7d5e01c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/1a7c9c49ece828a02b1118234652ada53c1f840b",
-                "reference": "1a7c9c49ece828a02b1118234652ada53c1f840b",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/e81356da90969139c85709f8353e59f1e7d5e01c",
+                "reference": "e81356da90969139c85709f8353e59f1e7d5e01c",
                 "shasum": ""
             },
             "require": {
@@ -4012,7 +4012,7 @@
                 "php",
                 "symfony"
             ],
-            "time": "2020-02-26T22:38:35+00:00"
+            "time": "2020-03-03T18:17:47+00:00"
         },
         {
             "name": "phar-io/manifest",
