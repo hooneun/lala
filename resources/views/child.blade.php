@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <p>Hello, {{ $name }}</p>
+    <p class="bg-gray-300">Hello, {{ $name }}</p>
     <p>This is my body content.</p>
     <p>The current UNIX timestamp is {{ time() }}</p>
 
